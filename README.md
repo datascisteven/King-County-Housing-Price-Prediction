@@ -52,27 +52,25 @@ Through the use of statistical tests during our EDA process, we will be able to 
 
 # Directory and File Structure
 
-<ul>
-  <li>README.md - brief overview of project</li>
-  <li>final.ipynb - location of final project report</li>
-  <li>/data - folder of data files
-housing_preds_Steven_Yan.csv - CSV of housing predictions</li>
---- kc_house_data_test_features.csv - CSV of project testing dataset</li>
---- kc_house_data_train.csv - CSV of project holdout set</li>
---- model.pickle - pickle file</li>
---- scaler.pickle - pickle file</li>
-  </li>
-- /images - folder of data visualization files</li>
---- df_boxplot.png - box plots of categorical variables</li>
---- df_corr.jpg - correlation matrix of variables</li>
---- df_countplot.png - bar plots of categorical variables</li>
---- df_distplot.jpg - distribution plots of continuous variables</li>
---- df_regplot.png - regression plots of categorical variables </li>
---- df_scatter.png - scatterplots of categorical variables</li>
---- df_target_2.png - boxplot of target variables</li>
+- README.md - brief overview of project
+- final.ipynb - location of final project report
+- /data - folder of data files
+- housing_preds_Steven_Yan.csv - CSV of housing predictions
+- kc_house_data_test_features.csv - CSV of project testing dataset
+- kc_house_data_train.csv - CSV of project holdout set
+- model.pickle - pickle file
+- scaler.pickle - pickle file
+- /images - folder of data visualization files
+- df_boxplot.png - box plots of categorical variables
+- df_corr.jpg - correlation matrix of variables
+- df_countplot.png - bar plots of categorical variables
+- df_distplot.jpg - distribution plots of continuous variables
+- df_regplot.png - regression plots of categorical variables 
+- df_scatter.png - scatterplots of categorical variables
+- df_target_2.png - boxplot of target variables
 
 # Method
 
 We started with an exploratory data analysis to gain a better understanding of the dataset.  We created some data visualizations which helped us to learn what features had a stronger correlation than others.  The insight gained from our EDA guided our data cleaning and feature engineering processes.
 
-We performed a linear regression model on the entire database with the polynomial and interaction features as well as the dummy variables.  We used K-Best to selec
+We performed a linear regression model on the entire database with the polynomial and interaction features as well as the dummy variables.  We used K-Best for feature selection.
