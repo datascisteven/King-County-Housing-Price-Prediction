@@ -3,7 +3,7 @@
 Flatiron School Phase 2 Project Submission
 Submitted by Steven Yan
 
-<img src="images/cover_photo.jpg>
+<img src="images/cover_photo.jpg">
 
 <span>Photo by <a href="https://unsplash.com/@tierramallorca?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Tierra Mallorca</a> on <a href="https://unsplash.com/s/photos/real-estate?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
