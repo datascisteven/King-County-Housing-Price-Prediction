@@ -1,9 +1,9 @@
-# Kings_County_Housing_Price_Prediction
+# Kings Count Housing Price Prediction
 
-## Flatiron School Phase 2 Project Submission
-## by Steven Yan
+Flatiron School Phase 2 Project Submission
+Submitted by Steven Yan
 
-<img src="images/cover_phot.jpg>
+<img src="images/cover_photo.jpg>
 
 <span>Photo by <a href="https://unsplash.com/@tierramallorca?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Tierra Mallorca</a> on <a href="https://unsplash.com/s/photos/real-estate?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
@@ -52,19 +52,19 @@ Through the use of statistical tests during our EDA process, we will be able to 
 
 # Directory and File Structure
 
-README.md - brief overview of project
-final.ipynb - location of final project report
-/data - folder of data files
-    housing_preds_Steven_Yan.csv - CSV of housing predictions
-    kc_house_data_test_features.csv - CSV of project testing dataset 
-    kc_house_data_train.csv - CSV of project holdout set
-    model.pickle - pickle file 
-    scaler.pickle - pickle file
-/images - folder of data visualization files
-    df_boxplot.png - box plots of categorical variables
-    df_corr.jpg - correlation matrix of variables
-    df_countplot.png - bar plots of categorical variables
-    df_distplot.jpg - distribution plots of continuous variables
-    df_regplot.png - regression plots of categorical variables 
-    df_scatter.png - scatterplots of categorical variables
-    df_target_2.png - boxplot of target variable
+- README.md - brief overview of project
+- final.ipynb - location of final project report
+- /data - folder of data files
+--- housing_preds_Steven_Yan.csv - CSV of housing predictions
+--- kc_house_data_test_features.csv - CSV of project testing dataset 
+--- kc_house_data_train.csv - CSV of project holdout set
+--- model.pickle - pickle file 
+--- scaler.pickle - pickle file
+- /images - folder of data visualization files
+--- df_boxplot.png - box plots of categorical variables
+--- df_corr.jpg - correlation matrix of variables
+--- df_countplot.png - bar plots of categorical variables
+--- df_distplot.jpg - distribution plots of continuous variables
+--- df_regplot.png - regression plots of categorical variables 
+--- df_scatter.png - scatterplots of categorical variables
+--- df_target_2.png - boxplot of target variable
