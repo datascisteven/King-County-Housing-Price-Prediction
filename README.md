@@ -1,4 +1,4 @@
-# Kings Count Housing Price Prediction
+# Kings County Housing Price Prediction
 
 Flatiron School Phase 2 Project Submission
 Submitted by Steven Yan
@@ -68,3 +68,9 @@ Through the use of statistical tests during our EDA process, we will be able to 
 --- df_regplot.png - regression plots of categorical variables 
 --- df_scatter.png - scatterplots of categorical variables
 --- df_target_2.png - boxplot of target variable
+
+# Method
+
+We started with an exploratory data analysis to gain a better understanding of the dataset.  We created some data visualizations which helped us to learn what features had a stronger correlation than others.  The insight gained from our EDA guided our data cleaning and feature engineering processes.
+
+We performed a linear regression model on the entire database with the polynomial and interaction features as well as the dummy variables.  We used K-Best to selec
