@@ -1,4 +1,4 @@
-# Kings County Housing Price Prediction
+# King County Housing Price Prediction
 
 Flatiron School Phase 2 Project Submission<br />
 Submitted by Steven Yan<br />
