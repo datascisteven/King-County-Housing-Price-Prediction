@@ -52,22 +52,21 @@ Through the use of statistical tests during our EDA process, we will be able to 
 
 # Directory and File Structure
 
-- README.md - brief overview of project
-- final.ipynb - location of final project report
-- /data - folder of data files
-- housing_preds_Steven_Yan.csv - CSV of housing predictions
-- kc_house_data_test_features.csv - CSV of project testing dataset
-- kc_house_data_train.csv - CSV of project holdout set
-- model.pickle - pickle file
-- scaler.pickle - pickle file
-- /images - folder of data visualization files
-- df_boxplot.png - box plots of categorical variables
-- df_corr.jpg - correlation matrix of variables
-- df_countplot.png - bar plots of categorical variables
-- df_distplot.jpg - distribution plots of continuous variables
-- df_regplot.png - regression plots of categorical variables 
-- df_scatter.png - scatterplots of categorical variables
-- df_target_2.png - boxplot of target variables
+```root
+├── /data (folder of all housing and modeling data)
+│   ├── model.pickle
+│   ├── scaler.pickle
+│   ├── housing_preds_Steven_Yan.csv
+│   ├── modeling.csv (CSV for import into modeling workbook)
+│   └── partials/template
+├── /images (folder of all visualizations created)
+├── /mapping (folder of mapping files)
+├── housing_eda.ipynb (EDA and Feature Engineering workbook)
+├── housing_holdout.ipynb (Holdout Set workbook)
+├── housing_modeling.ipynb (Modeling workbook)
+└── README.md
+```
+
 
 # Method
 
