@@ -130,3 +130,7 @@ dmypy.json
 
 extra_code.ipynb
 final (1).ipynb
+data/kc_house_data_train.xlsm
+data/~$kc_house_data_train.xlsm
+data/.DS_Store
+data/.DS_Store
