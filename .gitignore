@@ -128,7 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-extra_code.ipynb
+extra.ipynb
 data/kc_house_data_train.xlsm
 data/~$kc_house_data_train.xlsm
 data/.DS_Store
