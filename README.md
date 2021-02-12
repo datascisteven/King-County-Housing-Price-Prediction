@@ -2,6 +2,7 @@
 
 Flatiron School Phase 2 Project Submission<br />
 Submitted by Steven Yan<br />
+Revised with models from Phase 3 and mapping techniques<br />
 
 <img src="images/cover_photo.jpg">
 
