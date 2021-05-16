@@ -1,9 +1,5 @@
 # King County Housing Price Prediction
 
-Flatiron School Phase 2 Project Submission<br />
-Submitted by Steven Yan<br />
-Revised with models from Phase 3 and mapping techniques<br />
-
 <img src="images/cover_photo.jpg">
 
 <span>Photo by <a href="https://unsplash.com/@tierramallorca?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Tierra Mallorca</a> on <a href="https://unsplash.com/s/photos/real-estate?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
@@ -69,7 +65,7 @@ Through the use of statistical tests during our EDA process, we will be able to 
 ```
 
 
-# Method
+# Methods
 
 We started with an exploratory data analysis to gain a better understanding of the dataset.  We created some data visualizations which helped us to learn what features had a stronger correlation than others.  The insight gained from our EDA guided our data cleaning and feature engineering processes.
 
